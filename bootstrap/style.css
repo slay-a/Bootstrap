@@ -1,0 +1,14 @@
+.custom-carousel {
+    border: 10px solid black;
+    height:300px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.carousel-inner {
+    border-radius: 10px;
+}
+
+.carousel-item {
+    border-radius: 10px;
+}
